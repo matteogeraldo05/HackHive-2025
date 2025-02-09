@@ -1,4 +1,4 @@
-# CourseHelpr
+# CourseHelpr - HackHive 2025
 
 ## Overview
 CourseHelpr is an AI-powered learning tool designed to enhance student engagement and understanding by transforming traditional learning materials into interactive experiences.
